@@ -38,7 +38,7 @@ p ,span{
 
 .content {
     width: 350px;
-    height: 400px;
+    height: 375px;
     background-color: white;
     z-index: 999;
     position: absolute;
@@ -94,7 +94,7 @@ p ,span{
 
 hr {
     margin-top: 35px;
-    opacity: .3;
+    opacity: .2;
 }
 
 .details {
